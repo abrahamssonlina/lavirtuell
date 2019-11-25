@@ -1,0 +1,44 @@
+.u-section-1 {background-image: url("images/55e1dd444e51b108f5d08460962934761237d6ed5a4c704c722c7ad1924ec258_1280.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 920px}
+.u-section-1 .u-layout-wrap-1 {pointer-events: auto; margin: 179px auto 60px 0}
+.u-section-1 .u-layout-cell-1 {min-height: 682px; pointer-events: auto}
+.u-section-1 .u-container-layout-1 {padding: 30px 60px}
+.u-section-1 .u-text-1 {font-weight: 400; text-transform: uppercase; letter-spacing: 5px; font-size: 1rem; margin: 40px 0 0}
+.u-section-1 .u-image-1 {width: 81px; height: 86px; margin: 22px auto 0 0}
+.u-section-1 .u-text-2 {font-weight: 400; font-family: "Ek Mukta"; font-size: 2.25rem; margin: -75px 0 0 96px}
+.u-section-1 .u-text-3 {font-size: 1rem; margin: 49px 0 0}
+.u-section-1 .u-text-4 {font-size: 0.75rem; margin: 15px 0 0}
+.u-section-1 .u-image-2 {min-height: 682px; pointer-events: auto; background-image: url("images/hejhejvit.jpg"); background-position: 32.49% 100%}
+.u-section-1 .u-container-layout-2 {padding: 30px 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 100px}
+.u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-layout-cell-1 {min-height: 676px}
+.u-section-1 .u-image-1 {width: 69px; height: 73px; margin-top: 8px}
+.u-section-1 .u-text-2 {width: auto; margin-top: -59px; margin-left: 79px}
+.u-section-1 .u-text-3 {font-size: 0.875rem; margin-top: 30px}
+.u-section-1 .u-text-4 {margin-top: 22px}
+.u-section-1 .u-image-2 {min-height: 676px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 877px}
+.u-section-1 .u-layout-cell-1 {min-height: 586px}
+.u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-text-1 {font-size: 0.875rem; margin-top: 0}
+.u-section-1 .u-image-1 {width: 57px; height: 61px; margin-top: 11px}
+.u-section-1 .u-text-2 {font-size: 1.5rem; margin-top: -43px; margin-left: 65px}
+.u-section-1 .u-text-3 {margin-top: 24px}
+.u-section-1 .u-image-2 {min-height: 586px; background-position: 38.55% 100%}
+.u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 100px}
+.u-section-1 .u-layout-cell-1 {min-height: 449px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-image-1 {margin-top: 18px}
+.u-section-1 .u-text-2 {margin-top: -50px}
+.u-section-1 .u-text-3 {margin-top: 53px}
+.u-section-1 .u-image-2 {min-height: 464px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-layout-cell-1 {min-height: 501px}
+.u-section-1 .u-text-2 {margin-left: 69px}
+.u-section-1 .u-image-2 {min-height: 361px} }

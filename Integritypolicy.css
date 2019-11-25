@@ -1,0 +1,15 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 1122px}
+.u-section-1 .u-text-1 {font-size: 1.875rem; font-family: "Ek Mukta"; font-weight: 400; margin: 70px 460px 0 0}
+.u-section-1 .u-text-2 {letter-spacing: 0; line-height: 1.8; font-size: 0.875rem; margin: 40px 0 20px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {width: 680px; margin-right: 260px}
+.u-section-1 .u-text-2 {width: 680px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-right: 40px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {width: 540px; margin-right: auto}
+.u-section-1 .u-text-2 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {width: 340px}
+.u-section-1 .u-text-2 {width: 340px} }
