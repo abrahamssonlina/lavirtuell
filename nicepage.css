@@ -25881,11 +25881,10 @@ color: #000000; }
 .u-footer .u-link-2 {font-size: 0.75rem; margin: -19px 81px 0 auto} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 211px}
 .u-footer .u-layout-wrap-1 {margin-top: 55px; margin-bottom: 9px}
-.u-footer .u-image-1 {margin-right: auto; margin-left: 150px}
+.u-footer .u-image-1 {width: 61px; margin-right: auto; margin-left: 150px}
 .u-footer .u-link-1 {margin-left: 89px}
 .u-footer .u-link-2 {margin-right: 96px} }
 @media (max-width: 991px){ .u-footer .u-layout-cell-1 {min-height: 142px}
-.u-footer .u-image-1 {width: 61px; margin-left: 0}
 .u-footer .u-link-1 {margin-left: 98px}
 .u-footer .u-link-2 {margin-right: 93px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 151px}
